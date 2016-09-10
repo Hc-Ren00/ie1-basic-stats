@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Basic Statistics
 
 A Java-based implementation for descriptive statistics. This
@@ -8,3 +9,7 @@ How to build: TBD
 How to run: TBD
 
 Features: TBD
+=======
+# basic-stats
+Toy implementation for CS520/620
+>>>>>>> 9b1bbb2 (Initial commit)
