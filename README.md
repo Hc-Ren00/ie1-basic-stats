@@ -1,6 +1,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ba319db (Updated README.)
 =======
@@ -25,3 +26,7 @@ Toy implementation for CS520/620
 >>>>>>> ba319db (Updated README.)
 =======
 >>>>>>> ba319db (Updated README.)
+=======
+# basic-stats
+Toy implementation for CS520/620
+>>>>>>> 9b1bbb2 (Initial commit)
