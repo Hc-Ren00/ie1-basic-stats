@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ba319db (Updated README.)
 =======
 >>>>>>> ba319db (Updated README.)
 #Basic Statistics
@@ -13,9 +16,12 @@ How to run: TBD
 
 Features: TBD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 # basic-stats
 Toy implementation for CS520/620
 >>>>>>> 9b1bbb2 (Initial commit)
+=======
+>>>>>>> ba319db (Updated README.)
 =======
 >>>>>>> ba319db (Updated README.)
