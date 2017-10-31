@@ -9,6 +9,7 @@
 #Basic Statistics
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 A Java-based implementation for descriptive statistics. This
 implementation is merely intended to be used in the CS520/620 course.
 
@@ -32,6 +33,8 @@ Toy implementation for CS520/620
 Toy implementation for CS520/620
 >>>>>>> 9b1bbb2 (Initial commit)
 =======
+=======
+>>>>>>> da90e87 (Updated README.md)
 Basic Statistics is a Java-based implementation for computing statistics on a set of numbers.
 This implementation is intended to be used in software engineering courses as
 a subject software system.
@@ -75,4 +78,7 @@ BUILD FAILED
 build.xml:17 Unable to find a javac compiler;
 ```
 Make sure that you have a JDK installed and that the JAVA_HOME environment variable is properly set.
+<<<<<<< HEAD
+>>>>>>> da90e87 (Updated README.md)
+=======
 >>>>>>> da90e87 (Updated README.md)
